@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is [Son](https://github.com/takashato).  
+Glad to see you here :D
+
 <!--
 **takashato/takashato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
